@@ -1,0 +1,4 @@
+la base de datos a crear en el xampp es "prueba"
+la tabla es "datos"
+la tabla tiene dos campos  "dni" INT que es la llave y "nombre_per" varchar
+el de borrar fata cuadrar como se va a hacer el borrado.
